@@ -608,7 +608,7 @@
 		<link>http://localhost/tx-demos/i-craft/t_5_front/</link>
 		<pubDate>Fri, 07 Jun 2013 10:49:13 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_5_front.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_5_front.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -624,7 +624,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_5_front.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_5_front.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/T_5_front.jpg]]></wp:meta_value>
@@ -639,7 +639,7 @@
 		<link>http://localhost/tx-demos/i-craft/t_5_back/</link>
 		<pubDate>Fri, 07 Jun 2013 10:49:23 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_5_back.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_5_back.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -655,7 +655,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_5_back.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_5_back.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/T_5_back.jpg]]></wp:meta_value>
@@ -670,7 +670,7 @@
 		<link>http://localhost/tx-demos/i-craft/t_6_front/</link>
 		<pubDate>Fri, 07 Jun 2013 10:51:51 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_6_front.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_6_front.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -686,7 +686,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_6_front.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_6_front.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/T_6_front.jpg]]></wp:meta_value>
@@ -701,7 +701,7 @@
 		<link>http://localhost/tx-demos/i-craft/t_6_back/</link>
 		<pubDate>Fri, 07 Jun 2013 10:52:02 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_6_back.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_6_back.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -717,7 +717,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_6_back.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_6_back.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/T_6_back.jpg]]></wp:meta_value>
@@ -732,7 +732,7 @@
 		<link>http://localhost/tx-demos/i-craft/t_7_front/</link>
 		<pubDate>Fri, 07 Jun 2013 10:52:55 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_7_front.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_7_front.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -748,7 +748,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_7_front.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_7_front.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/T_7_front.jpg]]></wp:meta_value>
@@ -763,7 +763,7 @@
 		<link>http://localhost/tx-demos/i-craft/t_7_back/</link>
 		<pubDate>Fri, 07 Jun 2013 10:53:29 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_7_back.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_7_back.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -779,7 +779,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_7_back.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_7_back.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/T_7_back.jpg]]></wp:meta_value>
@@ -794,7 +794,7 @@
 		<link>http://localhost/tx-demos/i-craft/hoodie_7_front/</link>
 		<pubDate>Fri, 07 Jun 2013 10:59:40 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_7_front.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_7_front.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -810,7 +810,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_7_front.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_7_front.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/hoodie_7_front.jpg]]></wp:meta_value>
@@ -825,7 +825,7 @@
 		<link>http://localhost/tx-demos/i-craft/hoodie_7_back/</link>
 		<pubDate>Fri, 07 Jun 2013 10:59:54 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_7_back.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_7_back.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -841,7 +841,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_7_back.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_7_back.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/hoodie_7_back.jpg]]></wp:meta_value>
@@ -856,7 +856,7 @@
 		<link>http://localhost/tx-demos/i-craft/hoodie_1_back/</link>
 		<pubDate>Fri, 07 Jun 2013 11:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_1_back.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_1_back.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -872,7 +872,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_1_back.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_1_back.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/hoodie_1_back.jpg]]></wp:meta_value>
@@ -887,7 +887,7 @@
 		<link>http://localhost/tx-demos/i-craft/hoodie_1_front/</link>
 		<pubDate>Fri, 07 Jun 2013 11:00:01 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_1_front.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_1_front.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -903,7 +903,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_1_front.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_1_front.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/hoodie_1_front.jpg]]></wp:meta_value>
@@ -918,7 +918,7 @@
 		<link>http://localhost/tx-demos/i-craft/hoodie_2_front/</link>
 		<pubDate>Fri, 07 Jun 2013 11:01:23 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_2_front.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_2_front.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -934,7 +934,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_2_front.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_2_front.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/hoodie_2_front.jpg]]></wp:meta_value>
@@ -949,7 +949,7 @@
 		<link>http://localhost/tx-demos/i-craft/t_1_front/</link>
 		<pubDate>Fri, 07 Jun 2013 10:35:28 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_1_front.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_1_front.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -965,7 +965,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_1_front.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_1_front.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/T_1_front.jpg]]></wp:meta_value>
@@ -980,7 +980,7 @@
 		<link>http://localhost/tx-demos/i-craft/t_1_back/</link>
 		<pubDate>Fri, 07 Jun 2013 10:35:39 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_1_back.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_1_back.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -996,7 +996,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_1_back.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_1_back.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/T_1_back.jpg]]></wp:meta_value>
@@ -1011,7 +1011,7 @@
 		<link>http://localhost/tx-demos/i-craft/t_2_front/</link>
 		<pubDate>Fri, 07 Jun 2013 10:41:23 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_2_front.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_2_front.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1027,7 +1027,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_2_front.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_2_front.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/T_2_front.jpg]]></wp:meta_value>
@@ -1042,7 +1042,7 @@
 		<link>http://localhost/tx-demos/i-craft/t_2_back/</link>
 		<pubDate>Fri, 07 Jun 2013 10:41:34 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_2_back.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_2_back.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1058,7 +1058,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_2_back.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_2_back.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/T_2_back.jpg]]></wp:meta_value>
@@ -1073,7 +1073,7 @@
 		<link>http://localhost/tx-demos/i-craft/t_4_front/</link>
 		<pubDate>Fri, 07 Jun 2013 10:45:14 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_4_front.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_4_front.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1089,7 +1089,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_4_front.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_4_front.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/T_4_front.jpg]]></wp:meta_value>
@@ -1104,7 +1104,7 @@
 		<link>http://localhost/tx-demos/i-craft/t_3_back/</link>
 		<pubDate>Fri, 07 Jun 2013 10:45:26 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_3_back.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_3_back.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1120,7 +1120,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_3_back.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_3_back.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/T_3_back.jpg]]></wp:meta_value>
@@ -1135,7 +1135,7 @@
 		<link>http://localhost/tx-demos/i-craft/t_3_front/</link>
 		<pubDate>Fri, 07 Jun 2013 10:45:27 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_3_front.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_3_front.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1151,7 +1151,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_3_front.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_3_front.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/T_3_front.jpg]]></wp:meta_value>
@@ -1166,7 +1166,7 @@
 		<link>http://localhost/tx-demos/i-craft/t_4_back/</link>
 		<pubDate>Fri, 07 Jun 2013 10:45:29 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_4_back.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_4_back.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1182,7 +1182,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_4_back.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_4_back.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/T_4_back.jpg]]></wp:meta_value>
@@ -1197,7 +1197,7 @@
 		<link>http://localhost/tx-demos/i-craft/t_4_front-2/</link>
 		<pubDate>Fri, 07 Jun 2013 10:45:30 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_4_front1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_4_front1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1213,7 +1213,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/T_4_front1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/T_4_front1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/T_4_front1.jpg]]></wp:meta_value>
@@ -1228,7 +1228,7 @@
 		<link>http://localhost/tx-demos/i-craft/hoodie_2_back/</link>
 		<pubDate>Fri, 07 Jun 2013 11:02:26 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_2_back.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_2_back.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1244,7 +1244,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_2_back.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_2_back.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/hoodie_2_back.jpg]]></wp:meta_value>
@@ -1259,7 +1259,7 @@
 		<link>http://localhost/tx-demos/i-craft/hoodie_3_front/</link>
 		<pubDate>Fri, 07 Jun 2013 11:03:16 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_3_front.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_3_front.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1275,7 +1275,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_3_front.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_3_front.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/hoodie_3_front.jpg]]></wp:meta_value>
@@ -1290,7 +1290,7 @@
 		<link>http://localhost/tx-demos/i-craft/hoodie_3_back/</link>
 		<pubDate>Fri, 07 Jun 2013 11:03:50 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_3_back.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_3_back.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1306,7 +1306,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_3_back.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_3_back.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/hoodie_3_back.jpg]]></wp:meta_value>
@@ -1321,7 +1321,7 @@
 		<link>http://localhost/tx-demos/i-craft/hoodie_4_front/</link>
 		<pubDate>Fri, 07 Jun 2013 11:05:03 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_4_front.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_4_front.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1337,7 +1337,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_4_front.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_4_front.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/hoodie_4_front.jpg]]></wp:meta_value>
@@ -1352,7 +1352,7 @@
 		<link>http://localhost/tx-demos/i-craft/hoodie_4_back/</link>
 		<pubDate>Fri, 07 Jun 2013 11:05:13 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_4_back.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_4_back.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1368,7 +1368,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_4_back.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_4_back.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/hoodie_4_back.jpg]]></wp:meta_value>
@@ -1383,7 +1383,7 @@
 		<link>http://localhost/tx-demos/i-craft/hoodie_5_back/</link>
 		<pubDate>Fri, 07 Jun 2013 11:07:10 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_5_back.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_5_back.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1399,7 +1399,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_5_back.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_5_back.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/hoodie_5_back.jpg]]></wp:meta_value>
@@ -1414,7 +1414,7 @@
 		<link>http://localhost/tx-demos/i-craft/hoodie_6_front/</link>
 		<pubDate>Fri, 07 Jun 2013 11:12:02 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_6_front.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_6_front.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1430,7 +1430,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_6_front.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_6_front.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/hoodie_6_front.jpg]]></wp:meta_value>
@@ -1445,7 +1445,7 @@
 		<link>http://localhost/tx-demos/i-craft/hoodie_6_back/</link>
 		<pubDate>Fri, 07 Jun 2013 11:12:16 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_6_back.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_6_back.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1461,7 +1461,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_6_back.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_6_back.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/hoodie_6_back.jpg]]></wp:meta_value>
@@ -1476,7 +1476,7 @@
 		<link>http://localhost/tx-demos/i-craft/poster_1_up/</link>
 		<pubDate>Fri, 07 Jun 2013 11:21:34 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/poster_1_up.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/poster_1_up.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1492,7 +1492,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/poster_1_up.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/poster_1_up.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/poster_1_up.jpg]]></wp:meta_value>
@@ -1507,7 +1507,7 @@
 		<link>http://localhost/tx-demos/i-craft/poster_2_up/</link>
 		<pubDate>Fri, 07 Jun 2013 11:24:19 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/poster_2_up.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/poster_2_up.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1523,7 +1523,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/poster_2_up.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/poster_2_up.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/poster_2_up.jpg]]></wp:meta_value>
@@ -1538,7 +1538,7 @@
 		<link>http://localhost/tx-demos/i-craft/poster_2_flat/</link>
 		<pubDate>Fri, 07 Jun 2013 11:24:47 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/Poster_2_flat.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/Poster_2_flat.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1554,7 +1554,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/Poster_2_flat.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/Poster_2_flat.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/Poster_2_flat.jpg]]></wp:meta_value>
@@ -1569,7 +1569,7 @@
 		<link>http://localhost/tx-demos/i-craft/poster_3_up/</link>
 		<pubDate>Fri, 07 Jun 2013 11:26:47 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/poster_3_up.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/poster_3_up.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1585,7 +1585,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/poster_3_up.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/poster_3_up.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/poster_3_up.jpg]]></wp:meta_value>
@@ -1600,7 +1600,7 @@
 		<link>http://localhost/tx-demos/i-craft/poster_3_flat/</link>
 		<pubDate>Fri, 07 Jun 2013 11:27:31 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/Poster_3_flat.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/Poster_3_flat.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1616,7 +1616,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/Poster_3_flat.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/Poster_3_flat.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/Poster_3_flat.jpg]]></wp:meta_value>
@@ -1631,7 +1631,7 @@
 		<link>http://localhost/tx-demos/i-craft/poster_4_up/</link>
 		<pubDate>Fri, 07 Jun 2013 11:28:07 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/poster_4_up.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/poster_4_up.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1647,7 +1647,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/poster_4_up.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/poster_4_up.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/poster_4_up.jpg]]></wp:meta_value>
@@ -1662,7 +1662,7 @@
 		<link>http://localhost/tx-demos/i-craft/poster_4_flat/</link>
 		<pubDate>Fri, 07 Jun 2013 11:28:20 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/Poster_4_flat.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/Poster_4_flat.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1678,7 +1678,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/Poster_4_flat.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/Poster_4_flat.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/Poster_4_flat.jpg]]></wp:meta_value>
@@ -1693,7 +1693,7 @@
 		<link>http://localhost/tx-demos/i-craft/poster_5_up/</link>
 		<pubDate>Fri, 07 Jun 2013 11:29:26 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/poster_5_up.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/poster_5_up.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1709,7 +1709,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/poster_5_up.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/poster_5_up.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/poster_5_up.jpg]]></wp:meta_value>
@@ -1724,7 +1724,7 @@
 		<link>http://localhost/tx-demos/i-craft/poster_5_flat/</link>
 		<pubDate>Fri, 07 Jun 2013 11:29:37 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/Poster_5_flat.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/Poster_5_flat.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1740,7 +1740,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/Poster_5_flat.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/Poster_5_flat.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/Poster_5_flat.jpg]]></wp:meta_value>
@@ -1755,7 +1755,7 @@
 		<link>http://localhost/tx-demos/i-craft/cd_1_angle/</link>
 		<pubDate>Fri, 07 Jun 2013 11:32:44 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_1_angle.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_1_angle.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1771,7 +1771,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_1_angle.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_1_angle.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/cd_1_angle.jpg]]></wp:meta_value>
@@ -1786,7 +1786,7 @@
 		<link>http://localhost/tx-demos/i-craft/hoodie_5_front/</link>
 		<pubDate>Fri, 07 Jun 2013 11:06:32 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_5_front.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_5_front.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1802,7 +1802,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/hoodie_5_front.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/hoodie_5_front.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/hoodie_5_front.jpg]]></wp:meta_value>
@@ -1817,7 +1817,7 @@
 		<link>http://localhost/tx-demos/i-craft/poster_1_flat/</link>
 		<pubDate>Fri, 07 Jun 2013 11:22:05 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/Poster_1_flat.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/Poster_1_flat.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1833,7 +1833,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/Poster_1_flat.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/Poster_1_flat.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/Poster_1_flat.jpg]]></wp:meta_value>
@@ -1848,7 +1848,7 @@
 		<link>http://localhost/tx-demos/i-craft/cd_1_flat/</link>
 		<pubDate>Fri, 07 Jun 2013 11:32:57 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_1_flat.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_1_flat.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1864,7 +1864,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_1_flat.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_1_flat.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/cd_1_flat.jpg]]></wp:meta_value>
@@ -1879,7 +1879,7 @@
 		<link>http://localhost/tx-demos/i-craft/cd_2_angle/</link>
 		<pubDate>Fri, 07 Jun 2013 11:33:53 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_2_angle.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_2_angle.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1895,7 +1895,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_2_angle.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_2_angle.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/cd_2_angle.jpg]]></wp:meta_value>
@@ -1910,7 +1910,7 @@
 		<link>http://localhost/tx-demos/i-craft/cd_2_flat/</link>
 		<pubDate>Fri, 07 Jun 2013 11:34:07 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_2_flat.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_2_flat.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1926,7 +1926,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_2_flat.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_2_flat.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/cd_2_flat.jpg]]></wp:meta_value>
@@ -1941,7 +1941,7 @@
 		<link>http://localhost/tx-demos/i-craft/cd_3_angle/</link>
 		<pubDate>Fri, 07 Jun 2013 11:34:58 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_3_angle.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_3_angle.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1957,7 +1957,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_3_angle.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_3_angle.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/cd_3_angle.jpg]]></wp:meta_value>
@@ -1972,7 +1972,7 @@
 		<link>http://localhost/tx-demos/i-craft/cd_3_flat/</link>
 		<pubDate>Fri, 07 Jun 2013 11:35:10 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_3_flat.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_3_flat.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1988,7 +1988,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_3_flat.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_3_flat.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/cd_3_flat.jpg]]></wp:meta_value>
@@ -2003,7 +2003,7 @@
 		<link>http://localhost/tx-demos/i-craft/cd_4_flat/</link>
 		<pubDate>Fri, 07 Jun 2013 11:36:10 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_4_flat.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_4_flat.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2019,7 +2019,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_4_flat.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_4_flat.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/cd_4_flat.jpg]]></wp:meta_value>
@@ -2034,7 +2034,7 @@
 		<link>http://localhost/tx-demos/i-craft/cd_4_angle/</link>
 		<pubDate>Fri, 07 Jun 2013 11:36:22 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_4_angle.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_4_angle.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2050,7 +2050,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_4_angle.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_4_angle.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/cd_4_angle.jpg]]></wp:meta_value>
@@ -2065,7 +2065,7 @@
 		<link>http://localhost/tx-demos/i-craft/cd_5_angle/</link>
 		<pubDate>Fri, 07 Jun 2013 11:37:04 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_5_angle.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_5_angle.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2081,7 +2081,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_5_angle.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_5_angle.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/cd_5_angle.jpg]]></wp:meta_value>
@@ -2096,7 +2096,7 @@
 		<link>http://localhost/tx-demos/i-craft/cd_5_flat/</link>
 		<pubDate>Fri, 07 Jun 2013 11:37:17 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_5_flat.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_5_flat.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2112,7 +2112,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_5_flat.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_5_flat.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/cd_5_flat.jpg]]></wp:meta_value>
@@ -2127,7 +2127,7 @@
 		<link>http://localhost/tx-demos/i-craft/cd_6_angle/</link>
 		<pubDate>Fri, 07 Jun 2013 11:37:51 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_6_angle.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_6_angle.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2143,7 +2143,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_6_angle.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_6_angle.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/cd_6_angle.jpg]]></wp:meta_value>
@@ -2158,7 +2158,7 @@
 		<link>http://localhost/tx-demos/i-craft/cd_6_flat/</link>
 		<pubDate>Fri, 07 Jun 2013 11:38:03 +0000</pubDate>
 		<dc:creator><![CDATA[wooteam]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_6_flat.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_6_flat.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2174,7 +2174,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/06/cd_6_flat.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/06/cd_6_flat.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/cd_6_flat.jpg]]></wp:meta_value>
@@ -2189,7 +2189,7 @@
 		<link>http://localhost/tx-demos/i-craft/logo-2/</link>
 		<pubDate>Wed, 04 Mar 2015 17:23:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2015/03/logo-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/03/logo-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2205,7 +2205,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2015/03/logo-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/03/logo-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/03/logo-2.jpg]]></wp:meta_value>
@@ -2220,7 +2220,7 @@
 		<link>http://localhost/tx-demos/i-craft/docs/slides1/</link>
 		<pubDate>Fri, 24 Apr 2015 03:57:32 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2236,7 +2236,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides1.jpg]]></wp:meta_value>
@@ -2251,7 +2251,7 @@
 		<link>http://localhost/tx-demos/i-craft/docs/slides2/</link>
 		<pubDate>Fri, 24 Apr 2015 03:57:38 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2267,7 +2267,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides2.jpg]]></wp:meta_value>
@@ -2282,7 +2282,7 @@
 		<link>http://localhost/tx-demos/i-craft/docs/slides3/</link>
 		<pubDate>Fri, 24 Apr 2015 03:57:43 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides3.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2298,7 +2298,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides3.jpg]]></wp:meta_value>
@@ -2313,7 +2313,7 @@
 		<link>http://localhost/tx-demos/i-craft/docs/slides4/</link>
 		<pubDate>Fri, 24 Apr 2015 03:57:48 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides4.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2329,7 +2329,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides4.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides4.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides4.jpg]]></wp:meta_value>
@@ -2344,7 +2344,7 @@
 		<link>http://localhost/tx-demos/i-craft/docs/slides5b/</link>
 		<pubDate>Fri, 24 Apr 2015 03:57:52 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides5b.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides5b.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2360,7 +2360,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides5b.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides5b.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides5b.jpg]]></wp:meta_value>
@@ -2375,7 +2375,7 @@
 		<link>http://localhost/tx-demos/i-craft/cat-1-2/</link>
 		<pubDate>Thu, 16 Nov 2017 00:24:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-1.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2391,7 +2391,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-1.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-1.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/cat-1.png]]></wp:meta_value>
@@ -2406,7 +2406,7 @@
 		<link>http://localhost/tx-demos/i-craft/cat-2-2/</link>
 		<pubDate>Thu, 16 Nov 2017 00:24:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-2.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2422,7 +2422,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-2.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-2.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/cat-2.png]]></wp:meta_value>
@@ -2437,7 +2437,7 @@
 		<link>http://localhost/tx-demos/i-craft/cat-3-2/</link>
 		<pubDate>Thu, 16 Nov 2017 00:24:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-3.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2453,7 +2453,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-3.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-3.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/cat-3.png]]></wp:meta_value>
@@ -2468,7 +2468,7 @@
 		<link>http://localhost/tx-demos/i-craft/cat-4-2/</link>
 		<pubDate>Thu, 16 Nov 2017 00:24:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-4.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-4.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2484,7 +2484,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-4.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-4.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/cat-4.png]]></wp:meta_value>
@@ -2499,7 +2499,7 @@
 		<link>http://localhost/tx-demos/i-craft/cat-5-2/</link>
 		<pubDate>Thu, 16 Nov 2017 00:24:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-5.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-5.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2515,7 +2515,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-5.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-5.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/cat-5.png]]></wp:meta_value>
@@ -2530,7 +2530,7 @@
 		<link>http://localhost/tx-demos/i-craft/cat-6-2/</link>
 		<pubDate>Thu, 16 Nov 2017 00:24:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-6.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-6.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2546,7 +2546,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-6.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-6.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/cat-6.png]]></wp:meta_value>
@@ -2561,7 +2561,7 @@
 		<link>http://localhost/tx-demos/i-craft/cat-7-2/</link>
 		<pubDate>Thu, 16 Nov 2017 00:24:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-7.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-7.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2577,7 +2577,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-7.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-7.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/cat-7.png]]></wp:meta_value>
@@ -2592,7 +2592,7 @@
 		<link>http://localhost/tx-demos/i-craft/cat-8-2/</link>
 		<pubDate>Thu, 16 Nov 2017 00:25:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-8.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-8.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2608,7 +2608,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-8.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-8.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/cat-8.png]]></wp:meta_value>
@@ -2623,7 +2623,7 @@
 		<link>http://localhost/tx-demos/i-craft/cat-9-2/</link>
 		<pubDate>Thu, 16 Nov 2017 00:25:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-9.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-9.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2639,7 +2639,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-9.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-9.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/cat-9.png]]></wp:meta_value>
@@ -2654,7 +2654,7 @@
 		<link>http://localhost/tx-demos/i-craft/cat-10-2/</link>
 		<pubDate>Thu, 16 Nov 2017 00:25:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-10.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-10.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2670,7 +2670,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-10.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-10.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/cat-10.png]]></wp:meta_value>
@@ -2685,7 +2685,7 @@
 		<link>http://localhost/tx-demos/i-craft/cat-11-2/</link>
 		<pubDate>Thu, 16 Nov 2017 00:25:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-11.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-11.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2701,7 +2701,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-11.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-11.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/cat-11.png]]></wp:meta_value>
@@ -2716,7 +2716,7 @@
 		<link>http://localhost/tx-demos/i-craft/cat-12-2/</link>
 		<pubDate>Thu, 16 Nov 2017 00:25:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-12.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-12.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2732,7 +2732,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-12.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-12.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/cat-12.png]]></wp:meta_value>
@@ -2747,7 +2747,7 @@
 		<link>http://localhost/tx-demos/i-craft/cat-13-2/</link>
 		<pubDate>Thu, 16 Nov 2017 00:25:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-13.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-13.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2763,7 +2763,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/cat-13.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/cat-13.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/cat-13.png]]></wp:meta_value>
@@ -2778,7 +2778,7 @@
 		<link>http://localhost/tx-demos/i-craft/tablets/</link>
 		<pubDate>Thu, 16 Nov 2017 12:09:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/tablets.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/tablets.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2794,7 +2794,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/tablets.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/tablets.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/tablets.png]]></wp:meta_value>
@@ -2809,7 +2809,7 @@
 		<link>http://localhost/tx-demos/i-craft/apple-841169_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:15:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/apple-841169_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/apple-841169_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2825,7 +2825,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/apple-841169_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/apple-841169_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/apple-841169_1920.jpg]]></wp:meta_value>
@@ -2840,7 +2840,7 @@
 		<link>http://localhost/tx-demos/i-craft/asia-1807528_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:15:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/asia-1807528_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/asia-1807528_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2856,7 +2856,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/asia-1807528_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/asia-1807528_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/asia-1807528_1920.jpg]]></wp:meta_value>
@@ -2871,7 +2871,7 @@
 		<link>http://localhost/tx-demos/i-craft/asia-1807531_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:15:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/asia-1807531_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/asia-1807531_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2887,7 +2887,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/asia-1807531_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/asia-1807531_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/asia-1807531_1920.jpg]]></wp:meta_value>
@@ -2902,7 +2902,7 @@
 		<link>http://localhost/tx-demos/i-craft/autumn-1710755_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:15:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/autumn-1710755_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/autumn-1710755_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2918,7 +2918,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/autumn-1710755_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/autumn-1710755_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/autumn-1710755_1920.jpg]]></wp:meta_value>
@@ -2933,7 +2933,7 @@
 		<link>http://localhost/tx-demos/i-craft/baskets-2028298_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:15:45 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/baskets-2028298_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/baskets-2028298_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2949,7 +2949,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/baskets-2028298_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/baskets-2028298_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/baskets-2028298_1920.jpg]]></wp:meta_value>
@@ -2964,7 +2964,7 @@
 		<link>http://localhost/tx-demos/i-craft/beach-1850197_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:15:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/beach-1850197_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/beach-1850197_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2980,7 +2980,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/beach-1850197_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/beach-1850197_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/beach-1850197_1920.jpg]]></wp:meta_value>
@@ -2995,7 +2995,7 @@
 		<link>http://localhost/tx-demos/i-craft/beautiful-1845052_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:16:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/beautiful-1845052_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/beautiful-1845052_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3011,7 +3011,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/beautiful-1845052_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/beautiful-1845052_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/beautiful-1845052_1920.jpg]]></wp:meta_value>
@@ -3026,7 +3026,7 @@
 		<link>http://localhost/tx-demos/i-craft/beautiful-1868701_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:16:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/beautiful-1868701_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/beautiful-1868701_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3042,7 +3042,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/beautiful-1868701_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/beautiful-1868701_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/beautiful-1868701_1920.jpg]]></wp:meta_value>
@@ -3057,7 +3057,7 @@
 		<link>http://localhost/tx-demos/i-craft/beautiful-girl-2003650_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:16:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/beautiful-girl-2003650_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/beautiful-girl-2003650_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3073,7 +3073,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/beautiful-girl-2003650_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/beautiful-girl-2003650_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/beautiful-girl-2003650_1920.jpg]]></wp:meta_value>
@@ -3088,7 +3088,7 @@
 		<link>http://localhost/tx-demos/i-craft/beautiful-girl-2008367_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:16:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/beautiful-girl-2008367_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/beautiful-girl-2008367_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3104,7 +3104,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/beautiful-girl-2008367_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/beautiful-girl-2008367_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/beautiful-girl-2008367_1920.jpg]]></wp:meta_value>
@@ -3119,7 +3119,7 @@
 		<link>http://localhost/tx-demos/i-craft/beautiful-girl-looking-away-1995531_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:16:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/beautiful-girl-looking-away-1995531_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/beautiful-girl-looking-away-1995531_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3135,7 +3135,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/beautiful-girl-looking-away-1995531_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/beautiful-girl-looking-away-1995531_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/beautiful-girl-looking-away-1995531_1920.jpg]]></wp:meta_value>
@@ -3150,7 +3150,7 @@
 		<link>http://localhost/tx-demos/i-craft/best-friends-1534506/</link>
 		<pubDate>Thu, 16 Nov 2017 12:16:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/best-friends-1534506.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/best-friends-1534506.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3166,7 +3166,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/best-friends-1534506.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/best-friends-1534506.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/best-friends-1534506.jpg]]></wp:meta_value>
@@ -3181,7 +3181,7 @@
 		<link>http://localhost/tx-demos/i-craft/bikini-1807461_1920-1/</link>
 		<pubDate>Thu, 16 Nov 2017 12:16:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/bikini-1807461_1920-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/bikini-1807461_1920-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3197,7 +3197,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/bikini-1807461_1920-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/bikini-1807461_1920-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/bikini-1807461_1920-1.jpg]]></wp:meta_value>
@@ -3212,7 +3212,7 @@
 		<link>http://localhost/tx-demos/i-craft/blond-1867305_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:17:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/blond-1867305_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/blond-1867305_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3228,7 +3228,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/blond-1867305_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/blond-1867305_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/blond-1867305_1920.jpg]]></wp:meta_value>
@@ -3243,7 +3243,7 @@
 		<link>http://localhost/tx-demos/i-craft/blue-69762/</link>
 		<pubDate>Thu, 16 Nov 2017 12:17:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/blue-69762.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/blue-69762.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3259,7 +3259,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/blue-69762.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/blue-69762.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/blue-69762.jpg]]></wp:meta_value>
@@ -3274,7 +3274,7 @@
 		<link>http://localhost/tx-demos/i-craft/boat-1687513_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:17:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/boat-1687513_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/boat-1687513_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3290,7 +3290,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/boat-1687513_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/boat-1687513_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/boat-1687513_1920.jpg]]></wp:meta_value>
@@ -3305,7 +3305,7 @@
 		<link>http://localhost/tx-demos/i-craft/book-841171_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:17:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/book-841171_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/book-841171_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3321,7 +3321,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/book-841171_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/book-841171_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/book-841171_1920.jpg]]></wp:meta_value>
@@ -3336,7 +3336,7 @@
 		<link>http://localhost/tx-demos/i-craft/boy-1252771_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:17:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/boy-1252771_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/boy-1252771_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3352,7 +3352,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/boy-1252771_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/boy-1252771_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/boy-1252771_1920.jpg]]></wp:meta_value>
@@ -3367,7 +3367,7 @@
 		<link>http://localhost/tx-demos/i-craft/business-1067978_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:17:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/business-1067978_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/business-1067978_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3383,7 +3383,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/business-1067978_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/business-1067978_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/business-1067978_1920.jpg]]></wp:meta_value>
@@ -3398,7 +3398,7 @@
 		<link>http://localhost/tx-demos/i-craft/business-1219868/</link>
 		<pubDate>Thu, 16 Nov 2017 12:17:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/business-1219868.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/business-1219868.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3414,7 +3414,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2013/12/business-1219868.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2013/12/business-1219868.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/12/business-1219868.jpg]]></wp:meta_value>
@@ -3429,7 +3429,7 @@
 		<link>http://localhost/tx-demos/i-craft/girl-97088_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:25:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/girl-97088_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/girl-97088_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3445,7 +3445,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/girl-97088_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/girl-97088_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/girl-97088_1920.jpg]]></wp:meta_value>
@@ -3460,7 +3460,7 @@
 		<link>http://localhost/tx-demos/i-craft/water-747618_1920/</link>
 		<pubDate>Thu, 16 Nov 2017 12:25:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/water-747618_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/water-747618_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3476,7 +3476,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/water-747618_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/water-747618_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/water-747618_1920.jpg]]></wp:meta_value>
@@ -3491,7 +3491,7 @@
 		<link>http://localhost/tx-demos/i-craft/wings-1940245_1280/</link>
 		<pubDate>Thu, 16 Nov 2017 12:25:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/wings-1940245_1280.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/wings-1940245_1280.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3507,7 +3507,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/wings-1940245_1280.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/wings-1940245_1280.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/wings-1940245_1280.jpg]]></wp:meta_value>
@@ -3522,7 +3522,7 @@
 		<link>http://localhost/tx-demos/i-craft/i-craft-child/</link>
 		<pubDate>Mon, 20 Nov 2017 20:20:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/i-craft-child.zip</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/i-craft-child.zip</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3538,7 +3538,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/11/i-craft-child.zip]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/11/i-craft-child.zip]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/11/i-craft-child.zip]]></wp:meta_value>
@@ -3549,7 +3549,7 @@
 		<link>http://localhost/tx-demos/i-craft/?attachment_id=1242</link>
 		<pubDate>Thu, 23 Nov 2017 05:32:00 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2014/12/girl-1327774_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2014/12/girl-1327774_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3565,7 +3565,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2014/12/girl-1327774_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2014/12/girl-1327774_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/girl-1327774_1920.jpg]]></wp:meta_value>
@@ -3580,7 +3580,7 @@
 		<link>http://localhost/tx-demos/i-craft/?attachment_id=1243</link>
 		<pubDate>Thu, 23 Nov 2017 05:32:07 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2014/12/reed-1246310_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2014/12/reed-1246310_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3596,7 +3596,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2014/12/reed-1246310_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2014/12/reed-1246310_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/reed-1246310_1920.jpg]]></wp:meta_value>
@@ -3611,7 +3611,7 @@
 		<link>http://localhost/tx-demos/i-craft/?attachment_id=1244</link>
 		<pubDate>Thu, 23 Nov 2017 05:32:14 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2014/12/seductive-1504982_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2014/12/seductive-1504982_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3627,7 +3627,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2014/12/seductive-1504982_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2014/12/seductive-1504982_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/seductive-1504982_1920.jpg]]></wp:meta_value>
@@ -3642,7 +3642,7 @@
 		<link>http://localhost/tx-demos/i-craft/?attachment_id=1246</link>
 		<pubDate>Thu, 23 Nov 2017 05:32:21 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2014/12/students-1807505_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2014/12/students-1807505_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3658,7 +3658,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2014/12/students-1807505_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2014/12/students-1807505_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/students-1807505_1920.jpg]]></wp:meta_value>
@@ -3673,7 +3673,7 @@
 		<link>http://localhost/tx-demos/i-craft/?attachment_id=1247</link>
 		<pubDate>Thu, 23 Nov 2017 05:32:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2014/12/suitcase-1488516_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2014/12/suitcase-1488516_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3689,7 +3689,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2014/12/suitcase-1488516_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2014/12/suitcase-1488516_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/suitcase-1488516_1920.jpg]]></wp:meta_value>
@@ -3704,7 +3704,7 @@
 		<link>http://localhost/tx-demos/i-craft/?attachment_id=1248</link>
 		<pubDate>Thu, 23 Nov 2017 05:32:33 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2014/12/teenager-1822438_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2014/12/teenager-1822438_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3720,7 +3720,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2014/12/teenager-1822438_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2014/12/teenager-1822438_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/teenager-1822438_1920.jpg]]></wp:meta_value>
@@ -3735,7 +3735,7 @@
 		<link>http://localhost/tx-demos/i-craft/?attachment_id=1249</link>
 		<pubDate>Thu, 23 Nov 2017 05:32:39 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2014/12/top-1807467.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2014/12/top-1807467.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3751,7 +3751,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2014/12/top-1807467.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2014/12/top-1807467.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/top-1807467.jpg]]></wp:meta_value>
@@ -3766,7 +3766,7 @@
 		<link>http://localhost/tx-demos/i-craft/?attachment_id=1250</link>
 		<pubDate>Thu, 23 Nov 2017 05:32:54 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2014/12/two-487062_1280.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2014/12/two-487062_1280.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3782,7 +3782,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2014/12/two-487062_1280.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2014/12/two-487062_1280.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/two-487062_1280.jpg]]></wp:meta_value>
@@ -3797,7 +3797,7 @@
 		<link>http://localhost/tx-demos/i-craft/?attachment_id=1267</link>
 		<pubDate>Fri, 01 Dec 2017 11:55:26 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/girl-511883_1280.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/girl-511883_1280.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3813,7 +3813,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/girl-511883_1280.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/girl-511883_1280.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/12/girl-511883_1280.jpg]]></wp:meta_value>
@@ -3828,7 +3828,7 @@
 		<link>http://localhost/tx-demos/i-craft/?attachment_id=1269</link>
 		<pubDate>Fri, 01 Dec 2017 11:57:01 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/sun-976685_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/sun-976685_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3844,7 +3844,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/sun-976685_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/sun-976685_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/12/sun-976685_1920.jpg]]></wp:meta_value>
@@ -3859,7 +3859,7 @@
 		<link>http://localhost/tx-demos/i-craft/?attachment_id=1272</link>
 		<pubDate>Fri, 01 Dec 2017 12:03:03 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/ipad-1721500_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/ipad-1721500_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3875,7 +3875,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/ipad-1721500_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/ipad-1721500_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/12/ipad-1721500_1920.jpg]]></wp:meta_value>
@@ -3890,7 +3890,7 @@
 		<link>http://localhost/tx-demos/i-craft/?attachment_id=1273</link>
 		<pubDate>Fri, 01 Dec 2017 12:03:09 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/laptop-1035345_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/laptop-1035345_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3906,7 +3906,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/laptop-1035345_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/laptop-1035345_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/12/laptop-1035345_1920.jpg]]></wp:meta_value>
@@ -3921,7 +3921,7 @@
 		<link>http://localhost/tx-demos/i-craft/?attachment_id=1274</link>
 		<pubDate>Fri, 01 Dec 2017 12:03:15 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/model-1963248_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/model-1963248_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3937,7 +3937,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/model-1963248_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/model-1963248_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/12/model-1963248_1920.jpg]]></wp:meta_value>
@@ -3952,7 +3952,7 @@
 		<link>http://localhost/tx-demos/i-craft/sports-fitness/</link>
 		<pubDate>Fri, 01 Dec 2017 12:10:49 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/sports-fitness.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/sports-fitness.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3968,7 +3968,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/sports-fitness.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/sports-fitness.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/12/sports-fitness.png]]></wp:meta_value>
@@ -3983,7 +3983,7 @@
 		<link>http://localhost/tx-demos/i-craft/tablets-2/</link>
 		<pubDate>Fri, 01 Dec 2017 12:10:53 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/tablets.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/tablets.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3999,7 +3999,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/tablets.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/tablets.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/12/tablets.png]]></wp:meta_value>
@@ -4014,7 +4014,7 @@
 		<link>http://localhost/tx-demos/i-craft/toys/</link>
 		<pubDate>Fri, 01 Dec 2017 12:10:56 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/toys.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/toys.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4030,7 +4030,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/toys.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/toys.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/12/toys.png]]></wp:meta_value>
@@ -4045,7 +4045,7 @@
 		<link>http://localhost/tx-demos/i-craft/travel/</link>
 		<pubDate>Fri, 01 Dec 2017 12:10:59 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/travel.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/travel.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4061,7 +4061,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2017/12/travel.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2017/12/travel.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/12/travel.png]]></wp:meta_value>
@@ -4076,7 +4076,7 @@
 		<link>http://localhost/tx-demos/i-craft/shop-blank/banners-1/</link>
 		<pubDate>Sat, 10 Mar 2018 07:55:43 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4092,7 +4092,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/banners-1.jpg]]></wp:meta_value>
@@ -4107,7 +4107,7 @@
 		<link>http://localhost/tx-demos/i-craft/shop-blank/banners-2/</link>
 		<pubDate>Sat, 10 Mar 2018 07:55:49 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4123,7 +4123,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/banners-2.jpg]]></wp:meta_value>
@@ -4138,7 +4138,7 @@
 		<link>http://localhost/tx-demos/i-craft/shop-blank/banners-3/</link>
 		<pubDate>Sat, 10 Mar 2018 07:55:53 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-3.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4154,7 +4154,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/banners-3.jpg]]></wp:meta_value>
@@ -4169,7 +4169,7 @@
 		<link>http://localhost/tx-demos/i-craft/shop-blank/banners-4/</link>
 		<pubDate>Sat, 10 Mar 2018 07:55:58 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-4.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4185,7 +4185,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-4.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-4.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/banners-4.jpg]]></wp:meta_value>
@@ -4200,7 +4200,7 @@
 		<link>http://localhost/tx-demos/i-craft/shop-blank/banners-small-1/</link>
 		<pubDate>Sat, 10 Mar 2018 07:57:38 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-small-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-small-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4216,7 +4216,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-small-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-small-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/banners-small-1.jpg]]></wp:meta_value>
@@ -4231,7 +4231,7 @@
 		<link>http://localhost/tx-demos/i-craft/shop-blank/banners-small-2/</link>
 		<pubDate>Sat, 10 Mar 2018 07:57:42 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-small-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-small-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4247,7 +4247,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-small-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-small-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/banners-small-2.jpg]]></wp:meta_value>
@@ -4262,7 +4262,7 @@
 		<link>http://localhost/tx-demos/i-craft/shop-blank/banners-small-3/</link>
 		<pubDate>Sat, 10 Mar 2018 07:57:45 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-small-3.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-small-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4278,7 +4278,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-small-3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-small-3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/banners-small-3.jpg]]></wp:meta_value>
@@ -4293,7 +4293,7 @@
 		<link>http://localhost/tx-demos/i-craft/shop-blank/banners-small-4/</link>
 		<pubDate>Sat, 10 Mar 2018 07:57:49 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-small-4.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-small-4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4309,7 +4309,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-small-4.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-small-4.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/banners-small-4.jpg]]></wp:meta_value>
@@ -5090,7 +5090,7 @@
 		<link>http://localhost/tx-demos/i-craft/shop-blank/banners-small-5/</link>
 		<pubDate>Sat, 10 Mar 2018 07:57:53 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-small-5.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-small-5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5106,7 +5106,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-small-5.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-small-5.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/banners-small-5.jpg]]></wp:meta_value>
@@ -5121,7 +5121,7 @@
 		<link>http://localhost/tx-demos/i-craft/shop-blank/banners-1b/</link>
 		<pubDate>Sat, 10 Mar 2018 08:16:41 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-1b.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-1b.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5137,7 +5137,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-1b.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-1b.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/banners-1b.jpg]]></wp:meta_value>
@@ -5152,7 +5152,7 @@
 		<link>http://localhost/tx-demos/i-craft/shop-blank/banners-2b/</link>
 		<pubDate>Sat, 10 Mar 2018 08:16:45 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-2b.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-2b.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5168,7 +5168,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-2b.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-2b.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/banners-2b.jpg]]></wp:meta_value>
@@ -5183,7 +5183,7 @@
 		<link>http://localhost/tx-demos/i-craft/shop-blank/banners-3b/</link>
 		<pubDate>Sat, 10 Mar 2018 08:16:49 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-3b.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-3b.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5199,7 +5199,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-3b.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-3b.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/banners-3b.jpg]]></wp:meta_value>
@@ -5214,7 +5214,7 @@
 		<link>http://localhost/tx-demos/i-craft/shop-blank/banners-4b/</link>
 		<pubDate>Sat, 10 Mar 2018 08:16:52 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-4b.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-4b.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5230,7 +5230,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-craft/wp-content/uploads/2018/03/banners-4b.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2018/03/banners-4b.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/banners-4b.jpg]]></wp:meta_value>
@@ -29953,7 +29953,7 @@ The code :
 		<content:encoded><![CDATA[<div style="padding:12px; text-align: center; font-size: 16px; font-weight: 600; color: #777; background-color: #eee;">View <a href="http://templatesnext.org/icraft/?page_id=882" target="_blank">start up video guide</a> for our themes.</div>
 <h2>Quick Start Guide</h2>
 <h3>Step 1. Menu Setup</h3>
-<a href="http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides1.jpg"><img class="alignnone size-full wp-image-784" src="http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides1.jpg" alt="slides1" width="1600" height="600" /></a>
+<a href="https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides1.jpg"><img class="alignnone size-full wp-image-784" src="https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides1.jpg" alt="slides1" width="1600" height="600" /></a>
 
 a. Go to "Appearance" &gt; "Menus".
 b. Create a new menu, add pages and links.
@@ -29961,7 +29961,7 @@ c. Check "Navigation Menu" checkbox and save.
 
 [tx_spacer size="16"]
 <h3>Step 2. Install Recommended Plugins</h3>
-<a href="http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides2.jpg"><img class="alignnone size-full wp-image-785" src="http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides2.jpg" alt="slides2" width="1600" height="600" /></a>
+<a href="https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides2.jpg"><img class="alignnone size-full wp-image-785" src="https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides2.jpg" alt="slides2" width="1600" height="600" /></a>
 
 a. Go to “Appearance” &gt; "Install Plugin".
 b. Check “Templatesnext Toolkit” and “Breadcrumb NavXT”.
@@ -29969,7 +29969,7 @@ c. Install and activate.
 
 [tx_spacer size="16"]
 <h3>Step 3. Create And Set A Front Page</h3>
-<a href="http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides3.jpg"><img class="alignnone size-full wp-image-786" src="http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides3.jpg" alt="slides3" width="1600" height="600" /></a>
+<a href="https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides3.jpg"><img class="alignnone size-full wp-image-786" src="https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides3.jpg" alt="slides3" width="1600" height="600" /></a>
 
 a. Create a page, say “Front Page” and save
 b. Go to “Settings” &gt; “Reading”
@@ -29978,7 +29978,7 @@ d. Do same for blog if you have one.
 
 [tx_spacer size="16"]
 <h3>Step 4. Add Slider On Front Page</h3>
-<a href="http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides4.jpg"><img class="alignnone size-full wp-image-787" src="http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides4.jpg" alt="slides4" width="1600" height="600" /></a>
+<a href="https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides4.jpg"><img class="alignnone size-full wp-image-787" src="https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides4.jpg" alt="slides4" width="1600" height="600" /></a>
 
 a. Open newly created “Front page” in editor.
 b. Check “Show default i-excel slider” to show default slider.
@@ -29987,7 +29987,7 @@ d. Add the shortcode in "Other slider plugin shortcode" meta field.
 
 [tx_spacer size="16"]
 <h3>Step 5. Customize Theme Options</h3>
-<a href="http://localhost/tx-demos/i-craft/wp-content/uploads/2015/04/slides5b.jpg"><img class="alignnone size-full wp-image-845" src="http://templatesnext.org/icraft/wp-content/uploads/2015/04/slide2-icraft-tutorial.jpg" alt="slide2-icraft-tutorial" width="1600" height="600" /></a>
+<a href="https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/uploads/2015/04/slides5b.jpg"><img class="alignnone size-full wp-image-845" src="http://templatesnext.org/icraft/wp-content/uploads/2015/04/slide2-icraft-tutorial.jpg" alt="slide2-icraft-tutorial" width="1600" height="600" /></a>
 
 a. Go to “Appearance” &gt; “Customize”.
 b. Setup your theme color, logo, layout etc.
