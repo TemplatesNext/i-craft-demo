@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/5.0.3" created="2019-01-31 02:48" -->
+<!-- generator="WordPress/5.0.3" created="2019-01-31 08:13" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>ICraft Agency 2</title>
 	<link>http://www.wp-demos.com/i-spirit/i-craft-agency2</link>
 	<description>Just another WordPress Demos site</description>
-	<pubDate>Thu, 31 Jan 2019 02:48:11 +0000</pubDate>
+	<pubDate>Thu, 31 Jan 2019 08:13:56 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://www.wp-demos.com/i-spirit/</wp:base_site_url>
@@ -5824,6 +5824,143 @@ Cras id nulla at orci maximus elementum quis at nibh. Nunc in lectus tellus. Aen
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Austin West</title>
+		<link>http://www.wp-demos.com/i-spirit/i-craft-agency2/?portfolio=austin-west</link>
+		<pubDate>Mon, 29 Dec 2014 14:40:57 +0000</pubDate>
+		<dc:creator><![CDATA[wpamarsian]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wp-experiments/?post_type=portfolio&#038;p=423</guid>
+		<description></description>
+		<content:encoded><![CDATA[Aliquam sit amet magna lacinia, mattis augue vitae, elementum ante. Aliquam ullamcorper, elit a hendrerit dictum, diam nisi consectetur ligula, eu egestas ante libero nec urna. Curabitur massa libero, feugiat a sapien id, dignissim viverra arcu. Aliquam a elit a orci pulvinar sodales in in ipsum. Proin non est placerat, sodales ante eu, pellentesque augue. Nunc at eros lorem. Fusce auctor sodales condimentum.
+
+Sed id quam non lorem scelerisque mollis. Donec pretium luctus metus sed mollis. Morbi tincidunt imperdiet euismod. Nam mattis odio enim, sed porttitor dui maximus a. Donec commodo condimentum tellus sed tristique. Phasellus efficitur sapien leo. Aenean convallis, nunc ut ornare hendrerit, tellus leo pellentesque augue, vel aliquam urna nisl in sapien. Aliquam bibendum neque nec pulvinar ornare. Vivamus at dignissim felis. Praesent condimentum ac ex nec commodo. Aenean eu sagittis eros. Vivamus ac eleifend sapien. Phasellus sodales diam vel augue iaculis scelerisque. Quisque condimentum sapien vitae turpis convallis, quis vehicula neque auctor. Proin nec pretium augue, ornare feugiat dui. Ut lobortis efficitur urna eget lobortis.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>423</wp:post_id>
+		<wp:post_date><![CDATA[2014-12-29 14:40:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-12-29 14:40:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[austin-west]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="portfolio-category" nicename="photoshop"><![CDATA[Photoshop]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Default Blog</title>
 		<link>http://www.wp-demos.com/i-spirit/i-craft-agency2/default-blog/</link>
 		<pubDate>Sun, 12 Apr 2015 14:52:21 +0000</pubDate>
@@ -6466,61 +6603,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rutrum risus quis conse
 		</wp:postmeta>
 	</item>
 	<item>
-		<title></title>
-		<link>http://www.wp-demos.com/i-spirit/i-craft-agency2/2018/09/13/1797/</link>
-		<pubDate>Thu, 13 Sep 2018 02:29:02 +0000</pubDate>
-		<dc:creator><![CDATA[wpamarsian]]></dc:creator>
-		<guid isPermaLink="false">http://35.202.231.10/index.php/2018/09/13/1797/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1797</wp:post_id>
-		<wp:post_date><![CDATA[2018-09-13 02:29:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-09-13 02:29:02]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1797]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="i-craft-main-nav"><![CDATA[i-craft Main Nav]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[740]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Abou Us – Custom Titlebar</title>
 		<link>http://www.wp-demos.com/i-spirit/i-craft-agency2/2018/09/13/abou-us-custom-titlebar/</link>
 		<pubDate>Thu, 13 Sep 2018 02:31:08 +0000</pubDate>
@@ -7053,7 +7135,7 @@ office@zentrale-dit.com</p>
 		<wp:post_name><![CDATA[1924]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
+		<wp:menu_order>5</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -11120,143 +11202,6 @@ Pellentesque in erat adipiscing, sagittis arcu quis, commodo odio. Cras at dapib
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[icreate_testi_company]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Astar Media]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Austin West</title>
-		<link>http://www.wp-demos.com/i-spirit/i-craft-agency2/?portfolio=austin-west</link>
-		<pubDate>Mon, 29 Dec 2014 14:40:57 +0000</pubDate>
-		<dc:creator><![CDATA[wpamarsian]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wp-experiments/?post_type=portfolio&#038;p=423</guid>
-		<description></description>
-		<content:encoded><![CDATA[Aliquam sit amet magna lacinia, mattis augue vitae, elementum ante. Aliquam ullamcorper, elit a hendrerit dictum, diam nisi consectetur ligula, eu egestas ante libero nec urna. Curabitur massa libero, feugiat a sapien id, dignissim viverra arcu. Aliquam a elit a orci pulvinar sodales in in ipsum. Proin non est placerat, sodales ante eu, pellentesque augue. Nunc at eros lorem. Fusce auctor sodales condimentum.
-
-Sed id quam non lorem scelerisque mollis. Donec pretium luctus metus sed mollis. Morbi tincidunt imperdiet euismod. Nam mattis odio enim, sed porttitor dui maximus a. Donec commodo condimentum tellus sed tristique. Phasellus efficitur sapien leo. Aenean convallis, nunc ut ornare hendrerit, tellus leo pellentesque augue, vel aliquam urna nisl in sapien. Aliquam bibendum neque nec pulvinar ornare. Vivamus at dignissim felis. Praesent condimentum ac ex nec commodo. Aenean eu sagittis eros. Vivamus ac eleifend sapien. Phasellus sodales diam vel augue iaculis scelerisque. Quisque condimentum sapien vitae turpis convallis, quis vehicula neque auctor. Proin nec pretium augue, ornare feugiat dui. Ut lobortis efficitur urna eget lobortis.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>423</wp:post_id>
-		<wp:post_date><![CDATA[2014-12-29 14:40:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-12-29 14:40:57]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[austin-west]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio-category" nicename="photoshop"><![CDATA[Photoshop]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1381]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[icreate_portfolio_subtitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Portfolio Subtitle Austin West]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
