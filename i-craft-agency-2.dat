@@ -1,4 +1,4 @@
-a:4:{s:8:"template";s:7:"i-craft";s:4:"mods";a:24:{s:18:"custom_css_post_id";i:1280;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:46;}s:8:"mmode_bg";a:6:{s:16:"background-color";s:17:"rgba(20,20,20,.8)";s:16:"background-image";s:71:"http://www.wp-demos.com/blank/wp-content/themes/i-craft/images/bg-7.jpg";s:17:"background-repeat";s:6:"repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:21:"background-attachment";s:6:"scroll";}s:11:"infi_scroll";b:0;s:11:"prod_popout";b:0;s:11:"boxed-icons";b:1;s:22:"itrans_social_facebook";s:33:"http://facebook.com/templatesnext";s:21:"itrans_social_twitter";s:32:"http://twitter.com/templatesnext";s:20:"itrans_social_flickr";s:0:"";s:18:"itrans_social_feed";s:0:"";s:9:"nav_upper";b:1;s:23:"itrans_social_instagram";s:34:"http://instagram.com/templatesnext";s:24:"itrans_social_googleplus";s:36:"http://plus.google.com/templatesnext";s:21:"itrans_social_youtube";s:32:"http://youtube.com/templatesnext";s:10:"pre_loader";b:1;s:12:"sidebar_side";b:1;s:4:"logo";s:82:"http://www.wp-demos.com/blank/wp-content/uploads/2018/09/logo-creative-1-b-1-1.png";s:10:"logo_trans";s:80:"http://www.wp-demos.com/blank/wp-content/uploads/2018/09/logo-creative-1-w-1.png";s:13:"primary_color";s:7:"#0cb4ce";s:11:"show_search";b:0;s:10:"hide_login";b:1;s:9:"hide_cart";b:1;s:13:"normal_search";b:1;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1544926528;s:4:"data";a:1:{s:9:"sidebar-1";a:4:{i:0;s:24:"nx-widget-recent-posts-1";i:1;s:27:"nx-widget-recent-comments-1";i:2;s:26:"nx-widget-portfolio-grid-1";i:3;s:6:"text-1";}}}}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:1125:".owl-item .tx-slide-title {
+a:4:{s:8:"template";s:7:"i-craft";s:4:"mods";a:25:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:46;}s:18:"custom_css_post_id";i:1280;s:8:"mmode_bg";a:6:{s:16:"background-color";s:17:"rgba(20,20,20,.8)";s:16:"background-image";s:71:"http://www.wp-demos.com/blank/wp-content/themes/i-craft/images/bg-7.jpg";s:17:"background-repeat";s:6:"repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:21:"background-attachment";s:6:"scroll";}s:11:"infi_scroll";b:0;s:11:"prod_popout";b:0;s:11:"boxed-icons";b:1;s:22:"itrans_social_facebook";s:33:"http://facebook.com/templatesnext";s:21:"itrans_social_twitter";s:32:"http://twitter.com/templatesnext";s:20:"itrans_social_flickr";s:0:"";s:18:"itrans_social_feed";s:0:"";s:9:"nav_upper";b:1;s:23:"itrans_social_instagram";s:34:"http://instagram.com/templatesnext";s:24:"itrans_social_googleplus";s:36:"http://plus.google.com/templatesnext";s:21:"itrans_social_youtube";s:32:"http://youtube.com/templatesnext";s:10:"pre_loader";b:1;s:12:"sidebar_side";b:1;s:4:"logo";s:110:"http://www.wp-demos.com/i-spirit/i-craft-agency2/wp-content/uploads/sites/29/2019/01/logo-creative-1-b-1-1.png";s:10:"logo_trans";s:108:"http://www.wp-demos.com/i-spirit/i-craft-agency2/wp-content/uploads/sites/29/2019/01/logo-creative-1-w-1.png";s:13:"primary_color";s:7:"#0cb4ce";s:11:"show_search";b:0;s:10:"hide_login";b:1;s:9:"hide_cart";b:1;s:13:"normal_search";b:1;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1544926528;s:4:"data";a:1:{s:9:"sidebar-1";a:4:{i:0;s:24:"nx-widget-recent-posts-1";i:1;s:27:"nx-widget-recent-comments-1";i:2;s:26:"nx-widget-portfolio-grid-1";i:3;s:6:"text-1";}}}}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:157:".owl-item .tx-slide-title {
 	text-transform: uppercase;
 }
 
@@ -9,58 +9,4 @@ a:4:{s:8:"template";s:7:"i-craft";s:4:"mods";a:24:{s:18:"custom_css_post_id";i:1
 	position: relative;
 	z-index: 2;
 } 
-
-.darkoverlay1:after {
-	position: relative;
-	position: absolute;
-	content: " ";
-	top: 0px;
-	right: 0px;
-	left: 0px;
-	bottom: 0px;
-	height: 100%;
-	width: 100%;
-	background-color: rgba(0,0,0,0.8);
-	z-index: 1;	
-} 
-
-
-.agency-2 .sow-slider-images li:before {
-	position: absolute;
-	left: 0px;
-	right: 0px;
-	top: 0px;
-	bottom: 0px;
-	content: " ";
-    background: linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
-		opacity: 0.92;	
-}
-
-.agency-2 .sow-slider-images .sow-hero-buttons a:hover span {
-	color: #0095eb;
-}
-
-.agency-2-overlay {
-	position: relative;
-}
-.agency-2-overlay > div {
-	position: relative;
-	z-index: 2;
-} 
-.agency-2-overlay:after {
-	position: relative;
-	position: absolute;
-	content: " ";
-	top: 0px;
-	right: 0px;
-	left: 0px;
-	bottom: 0px;
-	height: 100%;
-	width: 100%;
-    background: linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
-opacity: 0.9;
-} 
-
-.agency-2 .agency-2-wiredbut .so-widget-sow-button a:hover span {
-	color: #333333;
-}";}
+";}
